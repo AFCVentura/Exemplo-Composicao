@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ventu\\dev\\N\u00E9lio\\Projeto-Composicao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9E358-CE0B-4559-8A79-5AFC30747D8D}|Projeto-Composicao.csproj|c:\\users\\ventu\\dev\\n\u00E9lio\\projeto-composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9E358-CE0B-4559-8A79-5AFC30747D8D}|Projeto-Composicao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9E358-CE0B-4559-8A79-5AFC30747D8D}|Projeto-Composicao.csproj|c:\\users\\ventu\\dev\\n\u00E9lio\\projeto-composicao\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9E358-CE0B-4559-8A79-5AFC30747D8D}|Projeto-Composicao.csproj|solutionrelative:departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9E358-CE0B-4559-8A79-5AFC30747D8D}|Projeto-Composicao.csproj|c:\\users\\ventu\\dev\\n\u00E9lio\\projeto-composicao\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9E358-CE0B-4559-8A79-5AFC30747D8D}|Projeto-Composicao.csproj|solutionrelative:funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\ventu\\dev\\N\u00E9lio\\Projeto-Composicao\\Departamento.cs",
+              "RelativeDocumentMoniker": "Departamento.cs",
+              "ToolTip": "C:\\Users\\ventu\\dev\\N\u00E9lio\\Projeto-Composicao\\Departamento.cs",
+              "RelativeToolTip": "Departamento.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:21:50.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\ventu\\dev\\N\u00E9lio\\Projeto-Composicao\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Funcionario.cs",
+              "ToolTip": "C:\\Users\\ventu\\dev\\N\u00E9lio\\Projeto-Composicao\\Funcionario.cs",
+              "RelativeToolTip": "Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:20:18.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ventu\\dev\\N\u00E9lio\\Projeto-Composicao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ventu\\dev\\N\u00E9lio\\Projeto-Composicao\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:08:00.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

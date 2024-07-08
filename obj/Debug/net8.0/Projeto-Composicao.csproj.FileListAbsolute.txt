@@ -1,0 +1,14 @@
+C:\Users\ventu\dev\Nélio\Projeto-Composicao\bin\Debug\net8.0\Projeto-Composicao.exe
+C:\Users\ventu\dev\Nélio\Projeto-Composicao\bin\Debug\net8.0\Projeto-Composicao.deps.json
+C:\Users\ventu\dev\Nélio\Projeto-Composicao\bin\Debug\net8.0\Projeto-Composicao.runtimeconfig.json
+C:\Users\ventu\dev\Nélio\Projeto-Composicao\bin\Debug\net8.0\Projeto-Composicao.dll
+C:\Users\ventu\dev\Nélio\Projeto-Composicao\bin\Debug\net8.0\Projeto-Composicao.pdb
+C:\Users\ventu\dev\Nélio\Projeto-Composicao\obj\Debug\net8.0\Projeto-Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ventu\dev\Nélio\Projeto-Composicao\obj\Debug\net8.0\Projeto-Composicao.AssemblyInfoInputs.cache
+C:\Users\ventu\dev\Nélio\Projeto-Composicao\obj\Debug\net8.0\Projeto-Composicao.AssemblyInfo.cs
+C:\Users\ventu\dev\Nélio\Projeto-Composicao\obj\Debug\net8.0\Projeto-Composicao.csproj.CoreCompileInputs.cache
+C:\Users\ventu\dev\Nélio\Projeto-Composicao\obj\Debug\net8.0\Projeto-Composicao.dll
+C:\Users\ventu\dev\Nélio\Projeto-Composicao\obj\Debug\net8.0\refint\Projeto-Composicao.dll
+C:\Users\ventu\dev\Nélio\Projeto-Composicao\obj\Debug\net8.0\Projeto-Composicao.pdb
+C:\Users\ventu\dev\Nélio\Projeto-Composicao\obj\Debug\net8.0\Projeto-Composicao.genruntimeconfig.cache
+C:\Users\ventu\dev\Nélio\Projeto-Composicao\obj\Debug\net8.0\ref\Projeto-Composicao.dll
